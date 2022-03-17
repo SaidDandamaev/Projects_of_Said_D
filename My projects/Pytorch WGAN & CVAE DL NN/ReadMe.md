@@ -8,4 +8,4 @@ During this job, we will:
 
 2. Create NN models for generating features
 
-3. Estimate generate quality by AUC_ROC score
+3. Estimate generation quality by AUC_ROC score
