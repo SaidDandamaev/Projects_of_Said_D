@@ -32,8 +32,8 @@ The strategy implemented in this project follows the methodology outlined in a r
 
 
 ## Contacts
-- `Email:` ssdandamaev@gmail
-- `Telegram:` @treasure_of
+- `Email:` **ssdandamaev@gmail.com**
+- `Telegram:` **@treasure_of**
 
 
 
